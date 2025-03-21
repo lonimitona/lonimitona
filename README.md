@@ -1,12 +1,8 @@
-Hi there! 👋 I'm Lonimi, a Biostatistician & Health Data Scientist passionate about using data to drive healthcare insights. My work focuses on statistical modeling, clinical research, and predictive analytics to support public health, patient care, and medical research.  
+Welcome to my GitHub! I'm passionate about using data, storytelling, and policy to create meaningful impact—particularly in health, humanitarian, and community-driven contexts. With a strong foundation in public health and experience working with non-profits, international organizations, and newcomer-serving agencies, I bring a human-centered approach to data, research, and systems thinking.  
 
-### 🔬 **Core Expertise**  
-✔ **Survival Analysis & Risk Prediction**  
-✔ **Clinical Trials & Epidemiology Research**  
-✔ **Machine Learning & Predictive Modeling**  
-✔ **Health Data Visualization & Dashboarding**  
 
-📌 Explore my projects to see how I apply Biostatistics, Machine learning, and real-world Healthcare data to solve complex problems.  
+
+📌 Explore my projects to see how I apply Biostatistics, Machine learning, and real-world Public Health data to solve complex problems.  
 
 📬 **Let’s Connect:**  
 🔗 [LinkedIn](https://www.linkedin.com/in/lonimi-olatona) | 🐍 [Portfolio](https://lonimitona.github.io/) | 📧 [Email](mailto:ocladitan@gmail.com)  
